@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/python
 def print_last_digit(number):
     if number < 0:
         ldigit = -number % 10
