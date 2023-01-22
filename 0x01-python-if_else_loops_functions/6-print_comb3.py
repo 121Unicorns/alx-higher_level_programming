@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 charend = ", "
 for i in range(0, 100):
     digit2 = i % 10
